@@ -2,11 +2,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Medo6143&color=blue)
 
-## About Me
-- 👀 I’m a **Front-End Developer** with a passion for building responsive and user-friendly web applications.
-- 🌱 Currently, I’m expanding my skill set by learning **Back-End Development** with **Node.js**.
-- 💞️ I’m looking to collaborate on **React.js projects**, **Firebase integrations**, and any exciting **open-source projects**.
-- 📫 How to reach me: 
+## 🚀 About Me
+- 👀 I’m a **Front-End Developer** passionate about building responsive and user-friendly web applications.
+- 🌱 Currently expanding my skills by diving deeper into **Back-End Development** with **Node.js**, **Express**, and **MongoDB**.
+- 💞️ Open to collaborations on **React.js projects**, **Firebase integrations**, and exciting **open-source projects**.
+- 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/mohamed-wael-469744273/)
   - [Email](mailto:mohamedwael6143@gmail.com)
 
@@ -19,12 +19,20 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🧑‍💻 Currently Working On
-- **Project**: [Chat application using Firebase](https://github.com/Medo6143/ChatME)
+## 📌 Currently Working On
+
+- Experimenting with full-stack projects utilizing **Node.js**, **Express**, and **MongoDB**.
 
 ## 📈 GitHub Stats
 ![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Medo6143&show_icons=true&theme=radical)
+
+## 🎯 Fun Facts
+- I enjoy tackling complex UI/UX challenges and continuously learning new technologies.
+- When I'm not coding, you might find me exploring tech trends or playing strategy games.
 
 ## 💬 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/mohamed-wael-469744273/)
