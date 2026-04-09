@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00FF9D&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed;MERN+Stack+Developer;Angular+Developer;UI%2FUX+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00FF9D&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed;MERN+Stack+Developer;Angular+Developer;Problem+Solver" alt="Typing SVG" />
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
@@ -33,10 +33,7 @@
 <td valign="top" width="40%">
 
 ### 🎯 **Quick Facts**
-- 🎨 UI/UX Enthusiast
 - 🧠 Always Learning
-- 🎮 Strategy Gamer
-- 📚 Tech Blogger
 - 🚀 AI Explorer
 
 </td>
