@@ -1,7 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00FF9D&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed;MERN+Stack+Developer;Angular+Developer;Problem+Solver" alt="Typing SVG" />
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=600&color=00FF9D&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Wael;Full-Stack+Developer;Next.js+%7C+React+%7C+Node.js+%7C+Django;I+ship+SaaS%2C+dashboards+%26+mobile+apps" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="https://portfolio-mohameds-projects-ea923384.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-wael-469744273/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mohamedwael6143@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~"><img src="https://img.shields.io/badge/Hire_me-14A800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
 </div>
 
 <div align="center">
@@ -12,177 +17,168 @@
 
 <br/>
 
-<!-- Gradient Line -->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+## 👨‍💻 About Me
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
+```typescript
+const mohamed = {
+  role: "Full-Stack Developer",
+  location: "Cairo, Egypt 🇪🇬 (working remotely with Riyadh 🇸🇦)",
+  currently: "Full-Stack Developer @ Tharwah Group",
+  stack: ["Next.js", "React", "TypeScript", "Node.js", "Python/Django", "React Native"],
+  databases: ["PostgreSQL", "MySQL", "MongoDB", "Firebase", "Supabase"],
+  focus: ["SaaS platforms", "Admin dashboards", "E-commerce", "Arabic/English RTL apps", "AI & automation"],
+  learning: ["System design", "DevOps & CI/CD", "LLM integrations"],
+  funFact: "Every project I ship comes with an admin dashboard and a real database 🙂",
+};
+```
 
-<table align="center">
-<tr>
-<td valign="top" width="60%">
+- 🏢 **Full-Stack Developer at Tharwah Group** (Riyadh, remote) since Sep 2026. Before that: Kowa (Jun–Sep 2026).
+- 🚀 Building production SaaS with **Next.js 14 + TypeScript**, REST APIs with **Node.js / Django**, and cross-platform apps with **React Native (Expo)**.
+- 🌍 Specialised in **bilingual Arabic/English** products with full **RTL** support for the Gulf market.
+- 🤖 Automating workflows with **n8n**, **WhatsApp Cloud API** and LLM integrations.
+- 💼 Open to freelance work: SaaS, dashboards, e-commerce, mobile apps.
 
-### 🚀 **Full Stack Developer**
-- 🔭 Currently building **full-stack applications** with **MERN** & **Angular**
-- 🌱 Leveling up in **Backend Architecture** & **DevOps**
-- 💼 Front-End Intern at **DevWave** - crafting real-world solutions
-- 💡 Love solving **UI/UX challenges** & optimizing performance
-- 🎯 2026 Goals: Master **TypeScript**, **Angular**, & **Cloud Deployment**
-- 🤖 Building **ResumeAI** - AI-powered resume optimization tool
-
-</td>
-<td valign="top" width="40%">
-
-### 🎯 **Quick Facts**
-- 🧠 Always Learning
-- 🚀 AI Explorer
-
-</td>
-</tr>
-</table>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **Tech Universe**
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🎨 **Frontend Magic**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### ⚙️ **Backend Power**
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🛠️ **Tools & Workflow**
+### Tools & Automation
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **🚀 Live Projects**
+## 🚀 Featured Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <a href="https://portfolio-mohameds-projects-ea923384.vercel.app/">
-          <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /><br/>
-          <sub>Personal Portfolio</sub>
-        </a>
-      </td>
-      <td align="center" width="200">
-        <a href="https://chat-me-six-zeta.vercel.app/">
-          <img src="https://img.shields.io/badge/Chat_App-00C7B7?style=for-the-badge&logo=messenger&logoColor=white" /><br/>
-          <sub>Real-time Chat</sub>
-        </a>
-      </td>
-      <td align="center" width="200">
-        <a href="https://medo6143.github.io/image-search/">
-          <img src="https://img.shields.io/badge/Image_Search-4285F4?style=for-the-badge&logo=google-images&logoColor=white" /><br/>
-          <sub>Image Search Engine</sub>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="200">
-        <a href="https://best-food-react-4060sdcuh-mohameds-projects-ea923384.vercel.app/">
-          <img src="https://img.shields.io/badge/Best_Food-FF5A5F?style=for-the-badge&logo=delicious&logoColor=white" /><br/>
-          <sub>Food Discovery App</sub>
-        </a>
-      </td>
-      <td align="center" width="200">
-        <a href="#">
-          <img src="https://img.shields.io/badge/ResumeAI-00A67E?style=for-the-badge&logo=openai&logoColor=white" /><br/>
-          <sub>AI Resume Tool</sub>
-        </a>
-      </td>
-      <td align="center" width="200">
-        <a href="https://www.linkedin.com/in/mohamed-wael-469744273/">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><br/>
-          <sub>Connect on LinkedIn</sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏥 Smart Clinic — Healthcare SaaS</h3>
+      <p align="center">
+        <a href="https://smartclinic-two.vercel.app/">Live Demo</a>
+      </p>
+      <p>Clinic management SaaS with three portals (Patient, Doctor, Clinic ERP). Bilingual AR/EN with RTL, ICD-10 e-prescriptions, AI patient follow-ups, real-time chat, Paymob payments, PWA, admin dashboard.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-ffaa00?style=flat&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/AI-412991?style=flat&logo=openai&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏢 Hulul — Bilingual Company Website</h3>
+      <p align="center">
+        <a href="https://hulul-cw7m.vercel.app/">Live Demo</a>
+      </p>
+      <p>Arabic/English corporate site for a Riyadh digital agency: services, portfolio, process, consultation booking, WhatsApp contact, with an admin dashboard and database for content management.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛍️ Èlevè Store — Fashion E-commerce</h3>
+      <p align="center">
+        <a href="https://store-eleve.vercel.app/">Live Demo</a>
+      </p>
+      <p>Premium fashion store with collections, product pages, wishlist, cart, authentication and an admin dashboard for products and orders.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat&logo=redux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-ffaa00?style=flat&logo=firebase&logoColor=black" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏠 Aqar Masr — Real-Estate Platform</h3>
+      <p align="center">
+        <a href="https://aqarmasr-or81.vercel.app/">Live Demo</a>
+      </p>
+      <p>Arabic RTL real-estate platform: filter listings by offer type, property type and area, submit properties, contact agency on WhatsApp. Admin dashboard and database included.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-ffaa00?style=flat&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 ResumeAI — AI Resume Builder</h3>
+      <p align="center">
+        <a href="https://resume-ai2-qbyk.vercel.app/login">Live Demo</a>
+      </p>
+      <p>SaaS that builds resumes with AI and scores them against ATS in real time. Google and email auth, user dashboard.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-ffaa00?style=flat&logo=firebase&logoColor=black" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💬 ChatME — Real-time Chat</h3>
+      <p align="center">
+        <a href="https://chat-me-six-zeta.vercel.app/">Live Demo</a>
+      </p>
+      <p>Real-time messaging app with registration, login and live conversations on Firebase.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Firebase-ffaa00?style=flat&logo=firebase&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **Featured Projects**
+<details>
+<summary><b>More projects</b></summary>
+<br/>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">📊 MERN Dashboard</h3>
-        <div align="center">
-          <p>Full-stack admin dashboard with role-based access control, real-time analytics, and data visualization</p>
-          <p>
-            <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-            <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-            <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🛒 E-Commerce Store</h3>
-        <div align="center">
-          <p>Complete e-commerce solution with authentication, product management, and order tracking</p>
-          <p>
-            <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-            <img src="https://img.shields.io/badge/Firebase-ffaa00?style=flat&logo=firebase&logoColor=black" />
-            <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-          </p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🤖 ResumeAI</h3>
-        <div align="center">
-          <p>AI-powered resume optimization tool with keyword analysis and ATS scoring</p>
-          <p>
-            <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
-            <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-            <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">💬 Chat App</h3>
-        <div align="center">
-          <p>Real-time messaging platform with rooms, private chats, and file sharing</p>
-          <p>
-            <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-            <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white" />
-            <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+| Project | Stack | Live |
+|---|---|---|
+| 🎬 Movies App — discovery site with REST API data | React, REST API | [Demo](https://movies-app-lilac-eta.vercel.app/) |
+| 🍽️ Karam El-Sham — Arabic restaurant site with menu & cart | React, RTL | [Demo](https://karame-elsham.vercel.app/) |
+| 🛒 E-commerce Store — auth, catalog, cart, checkout | React, Redux | [Demo](https://ecommerce-store55.vercel.app/) |
+| 🛒 Shopi Store — electronics store with admin | React, Redux, Firebase | [Demo](https://ecommerce-store-pi-red.vercel.app/login) |
+| 🍔 Best Food — food delivery site | React | [Demo](https://best-food-react.vercel.app/) |
+| 🛋️ VivaDecor — interior design landing page | React | [Demo](https://inrerior-design.vercel.app/) |
+| 🔍 Image Search — photo search with public API | JavaScript | [Demo](https://medo6143.github.io/image-search/) |
+| 🍕 Speed Food — restaurant landing page | HTML, CSS, JS | [Demo](https://medo6143.github.io/speed_food/) |
+| ❌⭕ Game XO — two-player Tic-Tac-Toe | JavaScript | [Demo](https://medo6143.github.io/game_xo/) |
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Let's Connect**
+</details>
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-wael-469744273/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedwael6143@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-mohameds-projects-ea923384.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Medo6143)
-
-</div>
-
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> **GitHub Analytics**
+## 📊 GitHub Stats
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Medo6143&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
@@ -190,19 +186,23 @@
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medo6143&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medo6143&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Medo6143&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Medo6143&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=6" />
 </div>
 
-## 📈 **Weekly Development Breakdown**
+## 🤝 Let's Work Together
 
-<!--START_SECTION:waka-->
-```text
-JavaScript   10 hrs 30 mins  ██████████░░░░░░░░░░░   48%
-TypeScript   5 hrs 20 mins   █████░░░░░░░░░░░░░░░░   24%
-Angular      3 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░   15%
-React        2 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░░   10%
-Other        1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░   3%
+<div align="center">
+
+Have a web app, dashboard or mobile app in mind? I reply with a clear plan, timeline and estimate.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-wael-469744273/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedwael6143@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-mohameds-projects-ea923384.vercel.app/)
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+
+</div>
