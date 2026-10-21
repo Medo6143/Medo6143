@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="90" viewBox="0 0 1000 90" font-family="JetBrains Mono, Fira Code, ui-monospace, Menlo, Consolas, monospace">
-<rect width="1000" height="90" rx="6" fill="#0a0e1a"/>
-<text x="500" y="40" text-anchor="middle" font-size="16" font-weight="800" fill="#e2e8f0" letter-spacing="3">GAME SAVED ✔</text>
-<text x="500" y="66" text-anchor="middle" font-size="12" fill="#39ff14">CONTINUE? → mohamedwaeltorad@gmail.com<animate attributeName="opacity" values="1;0.4;1" dur="1.6s" repeatCount="indefinite"/></text>
-</svg>
