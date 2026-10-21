@@ -1,182 +1,159 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Mohamed Wael — Full-Stack Developer" />
+  <img src="assets/rpg-header.svg" width="100%" alt="Mohamed Wael — Player Profile" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=700&color=94A3B8&center=true&vCenter=true&width=640&lines=Building+SaaS+platforms%2C+dashboards+and+mobile+apps;Shipping+production+apps+for+the+Saudi+market;Arabic+%2F+English+RTL+products+for+the+Gulf+market;Next.js+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Django" alt="typing" />
+  <a href="https://mohamed-wael-m.vercel.app/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-0a0e1a?style=for-the-badge&labelColor=0a0e1a&color=39ff14" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/mohamed-wael-469744273/"><img src="https://img.shields.io/badge/LINKEDIN-0a0e1a?style=for-the-badge&logo=linkedin&logoColor=00e5ff" /></a>&nbsp;
+  <a href="mailto:mohamedwaeltorad@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0a0e1a?style=for-the-badge&logo=gmail&logoColor=ff2e97" /></a>&nbsp;
+  <img src="https://img.shields.io/github/followers/Medo6143?style=for-the-badge&color=0a0e1a&labelColor=0a0e1a&logo=github&logoColor=ffd60a&label=PARTY" />
 </p>
 
-<p align="center">
-  <a href="https://mohamed-wael-m.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0b1020?style=flat-square&logo=vercel&logoColor=00ff9d" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/mohamed-wael-469744273/"><img src="https://img.shields.io/badge/LinkedIn-0b1020?style=flat-square&logo=linkedin&logoColor=38bdf8" /></a>&nbsp;
-  <a href="mailto:mohamedwaeltorad@gmail.com"><img src="https://img.shields.io/badge/Email-0b1020?style=flat-square&logo=gmail&logoColor=a78bfa" /></a>&nbsp;
-  <img src="https://img.shields.io/github/followers/Medo6143?style=flat-square&color=0b1020&labelColor=0b1020&logo=github&label=followers" />&nbsp;
-  <img src="https://img.shields.io/github/stars/Medo6143?style=flat-square&color=0b1020&labelColor=0b1020&logo=github&label=stars" />
-</p>
-
-<img src="assets/divider.svg" width="100%" />
-
-### `~/about`
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ CHARACTER ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
 
 <p align="center">
-  <img src="assets/terminal.svg" width="100%" alt="terminal" />
+  <img src="assets/rpg-card.svg" width="100%" alt="character card" />
 </p>
 
 <table border="0">
 <tr>
-<td width="52%" valign="top">
+<td width="50%" valign="top">
 
-I'm a full-stack developer from Cairo, working remotely with teams in Saudi Arabia. I design and ship complete products: the UI, the API, the database, the admin dashboard, and the deployment.
+**📜 LORE**
 
-My work lives in the Gulf market, so most of what I build is **bilingual Arabic / English with full RTL**, and most of it carries real users, payments, and roles.
+A full-stack developer from Cairo who spawned in 2024 with React and Firebase, levelled up through two internships, and now ships production SaaS for the Saudi market. Builds the whole thing: UI, API, database, admin dashboard, deployment.
 
-- 🇸🇦 &nbsp;2+ years building production web apps, currently for the Saudi market
-- 🤖 &nbsp;Exploring LLM features, **n8n** automation and the **WhatsApp Cloud API**
-- 💬 &nbsp;Open to freelance and remote work
+Speciality: **bilingual Arabic / English products with full RTL**, with real users, payments and roles.
 
 </td>
-<td width="48%" valign="top" align="center">
-  <img src="assets/now.svg" width="100%" alt="currently" />
-</td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
-<img src="assets/divider.svg" width="100%" />
+**⚔️ LOADOUT**
 
-### `~/stack`
-
-<table border="0">
-<tr>
-<td width="50%" align="center" valign="middle">
-  <img src="assets/orbit.svg" width="100%" alt="skills orbit" />
-</td>
-<td width="50%" valign="middle">
-
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,angular,redux,tailwind&theme=dark" />
-
-**Backend & data**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,postgres,mysql,mongodb&theme=dark" />
-
-**Cloud & tooling**<br/>
-<img src="https://skillicons.dev/icons?i=firebase,supabase,prisma,docker,vercel,githubactions,git&theme=dark" />
-
-**Design & workflow**<br/>
-<img src="https://skillicons.dev/icons?i=figma,postman,vscode,linux,bash,github&theme=dark" />
+```ts
+const loadout = {
+  mainHand : "Next.js + TypeScript",
+  offHand  : "Node.js / Django APIs",
+  armor    : "PostgreSQL · MySQL · Firebase",
+  mount    : "React Native (Expo)",
+  potions  : ["n8n", "WhatsApp Cloud API", "LLMs"],
+  spawn    : "Cairo 🇪🇬  →  Riyadh 🇸🇦",
+};
+```
 
 </td>
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" />
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ SKILLS ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
 
-### `~/work`
+<p align="center">
+  <img src="assets/rpg-skilltree.svg" width="100%" alt="skill tree" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,angular,redux,tailwind,nodejs,express,python,django,postgres,mysql,mongodb,firebase,supabase,prisma,docker,vercel,githubactions,git,figma,postman&theme=dark&perline=12" />
+</p>
+
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ QUESTS ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
+
+<p align="center">
+  <img src="assets/rpg-quests.svg" width="100%" alt="quest log" />
+</p>
 
 <table border="0">
   <tr>
     <td width="50%" valign="top">
       <a href="https://smartclinic-two.vercel.app/"><img src="assets/01-smart-clinic.png" width="100%" alt="Smart Clinic" /></a>
-      <br/><br/>
-      <b>Smart Clinic</b> · Healthcare SaaS<br/>
-      <sub>Patient, Doctor and Clinic portals · e-prescriptions · AI follow-ups · real-time chat · Paymob · PWA</sub><br/>
-      <sub><code>Next.js 14</code> <code>TypeScript</code> <code>Firebase</code> <code>AI</code></sub>
+      <p align="center"><sub>🏆 LEGENDARY</sub><br/><b>Smart Clinic</b> · Healthcare SaaS<br/><sub><code>Next.js 14</code> <code>TypeScript</code> <code>Firebase</code> <code>AI</code> <code>Paymob</code></sub></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://hulul-cw7m.vercel.app/"><img src="assets/02-hulul.png" width="100%" alt="Hulul" /></a>
-      <br/><br/>
-      <b>Hulul</b> · Bilingual company website<br/>
-      <sub>AR/EN corporate site for a Riyadh agency · booking · WhatsApp · admin dashboard + database</sub><br/>
-      <sub><code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code></sub>
+      <p align="center"><sub>💎 EPIC</sub><br/><b>Hulul</b> · Bilingual company website<br/><sub><code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>Admin dashboard</code></sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://store-eleve.vercel.app/"><img src="assets/03-eleve-store.png" width="100%" alt="Eleve Store" /></a>
-      <br/><br/>
-      <b>Èlevè Store</b> · Fashion e-commerce<br/>
-      <sub>Collections · wishlist · cart · auth · admin dashboard for products and orders</sub><br/>
-      <sub><code>Next.js 14</code> <code>Redux Toolkit</code> <code>Firebase</code></sub>
+      <p align="center"><sub>💎 EPIC</sub><br/><b>Èlevè Store</b> · Fashion e-commerce<br/><sub><code>Next.js 14</code> <code>Redux Toolkit</code> <code>Firebase</code></sub></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://aqarmasr-or81.vercel.app/"><img src="assets/04-aqar-masr.png" width="100%" alt="Aqar Masr" /></a>
-      <br/><br/>
-      <b>Aqar Masr</b> · Real-estate platform<br/>
-      <sub>Arabic RTL listings · filters by type and area · property submission · admin dashboard</sub><br/>
-      <sub><code>Next.js</code> <code>Firebase</code> <code>Tailwind</code></sub>
+      <p align="center"><sub>🔷 RARE</sub><br/><b>Aqar Masr</b> · Real-estate platform<br/><sub><code>Next.js</code> <code>Firebase</code> <code>Arabic RTL</code></sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://resume-ai2-qbyk.vercel.app/login"><img src="assets/05-resume-ai.png" width="100%" alt="ResumeAI" /></a>
-      <br/><br/>
-      <b>ResumeAI</b> · AI resume builder<br/>
-      <sub>AI-generated resumes with live ATS scoring · Google and email auth</sub><br/>
-      <sub><code>Angular</code> <code>TypeScript</code> <code>Firebase</code></sub>
+      <p align="center"><sub>🔷 RARE</sub><br/><b>ResumeAI</b> · AI resume builder<br/><sub><code>Angular</code> <code>TypeScript</code> <code>Firebase</code></sub></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://chat-me-six-zeta.vercel.app/"><img src="assets/06-chatme.png" width="100%" alt="ChatME" /></a>
-      <br/><br/>
-      <b>ChatME</b> · Real-time chat<br/>
-      <sub>Registration, login and live conversations on Firebase</sub><br/>
-      <sub><code>React</code> <code>Firebase</code></sub>
+      <p align="center"><sub>🟢 COMMON</sub><br/><b>ChatME</b> · Real-time chat<br/><sub><code>React</code> <code>Firebase</code></sub></p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://mohamed-wael-m.vercel.app/"><img src="https://img.shields.io/badge/All_projects_→-0b1020?style=flat-square&logoColor=white&color=0b1020" /></a>
+  <a href="https://mohamed-wael-m.vercel.app/"><img src="https://img.shields.io/badge/▶_VIEW_FULL_QUEST_ARCHIVE-0a0e1a?style=for-the-badge&labelColor=0a0e1a&color=ffd60a" /></a>
 </p>
 
-<img src="assets/divider.svg" width="100%" />
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ACHIEVEMENTS ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
 
-### `~/journey`
+<p align="center">
+  <img src="assets/rpg-achievements.svg" width="100%" alt="achievements" />
+</p>
+
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ CAMPAIGN ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
+
+### `🗺️ CAMPAIGN MAP`
 
 ```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0b1020','primaryTextColor':'#e2e8f0','lineColor':'#38bdf8','cScale0':'#00ff9d','cScale1':'#38bdf8','cScale2':'#a78bfa'}}}%%
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0a0e1a','primaryTextColor':'#e2e8f0','lineColor':'#00e5ff','cScale0':'#39ff14','cScale1':'#00e5ff','cScale2':'#ff2e97'}}}%%
 timeline
-    2024 : Started freelancing · first React + Firebase apps
-    2025 : Frontend Intern & Team Lead @ DevWave
-         : Full-Stack Intern @ CodVeda
-         : Built ResumeAI (Angular + AI)
-    2026 : Full-Stack Developer @ Kowa (Saudi market)
-         : Full-Stack Developer @ Tharwah Group, Riyadh
-         : Shipped Smart Clinic SaaS and Hulul
+    2024 · Tutorial Zone : Started freelancing · first React + Firebase apps
+    2025 · Guild Trials : Frontend Intern & Team Lead @ DevWave
+                        : Full-Stack Intern @ CodVeda
+                        : Crafted ResumeAI (Angular + AI)
+    2026 · Boss Fights : Full-Stack Developer @ Kowa (Saudi market)
+                       : Full-Stack Developer @ Tharwah Group, Riyadh
+                       : Shipped Smart Clinic SaaS and Hulul
 ```
 
 <p align="center">
-  <a href="https://tharwah.net/"><img src="https://img.shields.io/badge/Tharwah_Group-Full--Stack_Developer_·_Sep_2026_→_now-0b1020?style=flat-square&labelColor=00ff9d&color=0b1020" /></a>&nbsp;
-  <a href="https://kowa.sa/"><img src="https://img.shields.io/badge/Kowa-Full--Stack_Developer_·_Jun_→_Sep_2026-0b1020?style=flat-square&labelColor=38bdf8&color=0b1020" /></a>
+  <a href="https://tharwah.net/"><img src="https://img.shields.io/badge/⚔️_Tharwah_Group-Full--Stack_Developer_·_Sep_2026_→_now-0a0e1a?style=flat-square&labelColor=39ff14&color=0a0e1a" /></a>&nbsp;
+  <a href="https://kowa.sa/"><img src="https://img.shields.io/badge/⚔️_Kowa-Full--Stack_Developer_·_Jun_→_Sep_2026-0a0e1a?style=flat-square&labelColor=00e5ff&color=0a0e1a" /></a>
 </p>
 
-<img src="assets/divider.svg" width="100%" />
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ STATS ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
 
-### `~/stats`
+### `📊 PLAYER STATS`
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Medo6143&show_icons=true&hide_border=true&bg_color=0b1020&title_color=00ff9d&icon_color=38bdf8&text_color=94a3b8&border_radius=16&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Medo6143&hide_border=true&background=0b1020&ring=00ff9d&fire=38bdf8&currStreakLabel=00ff9d&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b&border_radius=16" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Medo6143&show_icons=true&hide_border=true&bg_color=0a0e1a&title_color=39ff14&icon_color=00e5ff&text_color=94a3b8&border_radius=6&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Medo6143&hide_border=true&background=0a0e1a&ring=39ff14&fire=ff2e97&currStreakLabel=39ff14&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b&border_radius=6" />
 </p>
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medo6143&layout=compact&hide_border=true&bg_color=0b1020&title_color=00ff9d&text_color=94a3b8&border_radius=16&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medo6143&layout=compact&hide_border=true&bg_color=0a0e1a&title_color=39ff14&text_color=94a3b8&border_radius=6&langs_count=8" />
 </p>
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Medo6143&bg_color=0b1020&color=94a3b8&line=00ff9d&point=38bdf8&area=true&area_color=00ff9d&hide_border=true&radius=16" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Medo6143&bg_color=0a0e1a&color=94a3b8&line=39ff14&point=00e5ff&area=true&area_color=39ff14&hide_border=true&radius=6" />
 </p>
 
-<img src="assets/divider.svg" width="100%" />
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ CONTACT ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
 
-### `~/contact`
-
-<p align="center">
-  Have a web app, dashboard or mobile app in mind? I reply with a clear plan, timeline and estimate.
-</p>
+### `🎮 START A NEW QUEST`
 
 <p align="center">
-  <a href="mailto:mohamedwaeltorad@gmail.com"><img src="https://img.shields.io/badge/mohamedwaeltorad@gmail.com-0b1020?style=for-the-badge&logo=gmail&logoColor=00ff9d" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/mohamed-wael-469744273/"><img src="https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=38bdf8" /></a>&nbsp;
-  <a href="https://mohamed-wael-m.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0b1020?style=for-the-badge&logo=vercel&logoColor=a78bfa" /></a>
+  Have a web app, dashboard or mobile app in mind? Send the quest brief and I reply with a clear plan, timeline and estimate.
 </p>
 
 <p align="center">
-  <img src="assets/footer.svg" width="100%" />
+  <a href="mailto:mohamedwaeltorad@gmail.com"><img src="https://img.shields.io/badge/mohamedwaeltorad@gmail.com-0a0e1a?style=for-the-badge&logo=gmail&logoColor=39ff14" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/mohamed-wael-469744273/"><img src="https://img.shields.io/badge/LinkedIn-0a0e1a?style=for-the-badge&logo=linkedin&logoColor=00e5ff" /></a>&nbsp;
+  <a href="https://mohamed-wael-m.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0a0e1a?style=for-the-badge&logo=vercel&logoColor=ff2e97" /></a>
+</p>
+
+<p align="center">
+  <img src="assets/rpg-footer.svg" width="100%" alt="game saved" />
 </p>
