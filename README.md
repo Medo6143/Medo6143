@@ -18,9 +18,13 @@
 
 ### `~/about`
 
+<p align="center">
+  <img src="assets/terminal.svg" width="100%" alt="terminal" />
+</p>
+
 <table border="0">
 <tr>
-<td width="55%" valign="top">
+<td width="52%" valign="top">
 
 I'm a full-stack developer from Cairo, working remotely with teams in Saudi Arabia. I design and ship complete products: the UI, the API, the database, the admin dashboard, and the deployment.
 
@@ -31,20 +35,8 @@ My work lives in the Gulf market, so most of what I build is **bilingual Arabic 
 - 💬 &nbsp;Open to freelance and remote work
 
 </td>
-<td width="45%" valign="top">
-
-```ts
-// what you get when you work with me
-export const deliverables = {
-  frontend : "Next.js · React · TypeScript",
-  backend  : "Node.js · Django · REST",
-  database : "PostgreSQL · MySQL · Firebase",
-  mobile   : "React Native (Expo)",
-  extras   : ["admin dashboard", "RTL", "CI/CD"],
-  handover : "Vercel · GitHub · docs",
-} as const;
-```
-
+<td width="48%" valign="top" align="center">
+  <img src="assets/now.svg" width="100%" alt="currently" />
 </td>
 </tr>
 </table>
@@ -53,12 +45,28 @@ export const deliverables = {
 
 ### `~/stack`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,angular,redux,tailwind&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,graphql,postgres,mysql&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,prisma,docker,vercel,githubactions&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,linux,bash&theme=dark" />
-</p>
+<table border="0">
+<tr>
+<td width="50%" align="center" valign="middle">
+  <img src="assets/orbit.svg" width="100%" alt="skills orbit" />
+</td>
+<td width="50%" valign="middle">
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,angular,redux,tailwind&theme=dark" />
+
+**Backend & data**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,postgres,mysql,mongodb&theme=dark" />
+
+**Cloud & tooling**<br/>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,prisma,docker,vercel,githubactions,git&theme=dark" />
+
+**Design & workflow**<br/>
+<img src="https://skillicons.dev/icons?i=figma,postman,vscode,linux,bash,github&theme=dark" />
+
+</td>
+</tr>
+</table>
 
 <img src="assets/divider.svg" width="100%" />
 

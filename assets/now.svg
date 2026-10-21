@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="300" viewBox="0 0 460 300" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="4" y="4" width="452" height="292" rx="18" fill="#0b1020" stroke="#ffffff" stroke-opacity="0.08"/>
+<text x="28" y="44" font-size="13" font-weight="700" fill="#64748b" letter-spacing="2">CURRENTLY</text>
+<circle cx="424" cy="40" r="5" fill="#00ff9d"><animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="28" y="86" font-size="12" font-weight="700" fill="#00ff9d">BUILDING</text>
+<text x="28" y="105" font-size="14" fill="#e2e8f0">Healthcare SaaS v2 (Smart Clinic)</text>
+<rect x="28" y="114" width="404" height="6" rx="3" fill="#ffffff" fill-opacity="0.08"/>
+<rect x="28" y="114" width="0" height="6" rx="3" fill="#00ff9d"><animate attributeName="width" from="0" to="331" begin="0.3s" dur="1.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></rect>
+<text x="28" y="138" font-size="12" font-weight="700" fill="#38bdf8">LEARNING</text>
+<text x="28" y="157" font-size="14" fill="#e2e8f0">System design &amp; DevOps</text>
+<rect x="28" y="166" width="404" height="6" rx="3" fill="#ffffff" fill-opacity="0.08"/>
+<rect x="28" y="166" width="0" height="6" rx="3" fill="#38bdf8"><animate attributeName="width" from="0" to="259" begin="0.55s" dur="1.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></rect>
+<text x="28" y="190" font-size="12" font-weight="700" fill="#a78bfa">EXPLORING</text>
+<text x="28" y="209" font-size="14" fill="#e2e8f0">LLM features · n8n · WhatsApp API</text>
+<rect x="28" y="218" width="404" height="6" rx="3" fill="#ffffff" fill-opacity="0.08"/>
+<rect x="28" y="218" width="0" height="6" rx="3" fill="#a78bfa"><animate attributeName="width" from="0" to="234" begin="0.8s" dur="1.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></rect>
+<text x="28" y="242" font-size="12" font-weight="700" fill="#fbbf24">AVAILABILITY</text>
+<text x="28" y="261" font-size="14" fill="#e2e8f0">Open for freelance projects</text>
+<rect x="28" y="270" width="404" height="6" rx="3" fill="#ffffff" fill-opacity="0.08"/>
+<rect x="28" y="270" width="0" height="6" rx="3" fill="#fbbf24"><animate attributeName="width" from="0" to="404" begin="1.05s" dur="1.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></rect>
+</svg>
