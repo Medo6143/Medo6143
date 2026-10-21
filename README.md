@@ -130,9 +130,9 @@ timeline
     2025 : Frontend Intern & Team Lead @ DevWave
          : Full-Stack Intern @ CodVeda
          : Built ResumeAI (Angular + AI)
-    2026 : Full-Stack Developer for the Saudi market
+    2026 : Full-Stack Developer @ Kowa (Saudi market)
+         : Full-Stack Developer @ Tharwah Group, Riyadh
          : Shipped Smart Clinic SaaS and Hulul
-         : Moved into AI features and automation
 ```
 
 <img src="assets/divider.svg" width="100%" />
