@@ -12,7 +12,6 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Medo6143&label=Profile%20Views&color=00FF9D&style=flat-square" />
   <img src="https://img.shields.io/github/followers/Medo6143?label=Followers&style=flat-square&color=0ea5e9" />
   <img src="https://img.shields.io/github/stars/Medo6143?label=Stars&style=flat-square&color=f59e0b" />
   <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Remote-00FF9D?style=flat-square" />
@@ -238,7 +237,7 @@ timeline
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Medo6143/Medo6143/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
+  <img src="https://ghchart.rshah.org/00FF9D/Medo6143" alt="contribution graph" width="95%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
