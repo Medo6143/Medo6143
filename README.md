@@ -135,6 +135,11 @@ timeline
          : Shipped Smart Clinic SaaS and Hulul
 ```
 
+<p align="center">
+  <a href="https://tharwah.net/"><img src="https://img.shields.io/badge/Tharwah_Group-Full--Stack_Developer_·_Sep_2026_→_now-0b1020?style=flat-square&labelColor=00ff9d&color=0b1020" /></a>&nbsp;
+  <a href="https://kowa.sa/"><img src="https://img.shields.io/badge/Kowa-Full--Stack_Developer_·_Jun_→_Sep_2026-0b1020?style=flat-square&labelColor=38bdf8&color=0b1020" /></a>
+</p>
+
 <img src="assets/divider.svg" width="100%" />
 
 ### `~/stats`
