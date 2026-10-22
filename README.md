@@ -59,32 +59,18 @@
 <!-- ═══════════════════════════ JOURNEY ═══════════════════════════ -->
 ## 🗺️ Work Journey
 
-<table border="0" align="center" width="100%">
-  <tr>
-    <td align="center" width="90">🟣<br/><b>2026</b><br/><sub>Sep → now</sub></td>
-    <td><b>Full-Stack Developer</b> · <a href="https://tharwah.net/">Tharwah Group</a>, Riyadh (remote)<br/><sub>Building bilingual web platforms and admin dashboards with Next.js, Node.js and Django for the Saudi market.</sub></td>
-  </tr>
-  <tr><td align="center">│</td><td></td></tr>
-  <tr>
-    <td align="center">🟣<br/><b>2026</b><br/><sub>Jun → Sep</sub></td>
-    <td><b>Full-Stack Developer</b> · <a href="https://kowa.sa/">Kowa</a> (on-site, Saudi-market company)<br/><sub>Shipped web apps and admin dashboards end to end with React, Next.js, Node.js and Django for Saudi clients.</sub></td>
-  </tr>
-  <tr><td align="center">│</td><td></td></tr>
-  <tr>
-    <td align="center">🔵<br/><b>2025</b><br/><sub>Sep → Nov</sub></td>
-    <td><b>Full-Stack Developer Intern</b> · CodVeda<br/><sub>Built a weather app, a data-management system and a landing page with React, Node.js/Express and Firebase.</sub></td>
-  </tr>
-  <tr><td align="center">│</td><td></td></tr>
-  <tr>
-    <td align="center">🔵<br/><b>2025</b><br/><sub>Jun → Aug</sub></td>
-    <td><b>Frontend Intern & Team Lead</b> · DevWave<br/><sub>Led the intern team building a full-stack Amazon clone with React, Redux and Firebase Auth; ran task splitting and code reviews.</sub></td>
-  </tr>
-  <tr><td align="center">│</td><td></td></tr>
-  <tr>
-    <td align="center">⚪<br/><b>2024</b></td>
-    <td><b>Freelance Full-Stack Developer</b> · Self-employed<br/><sub>Started delivering web apps for clients in SaaS, e-commerce, healthcare and real estate, from design to Vercel deployment.</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/journey-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/journey-light.svg" />
+    <img src="./assets/journey-dark.svg" width="100%" alt="Animated timeline: freelance 2024, DevWave and CodVeda internships 2025, Kowa and Tharwah Group 2026" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://tharwah.net/"><img src="https://img.shields.io/badge/Tharwah_Group-Full--Stack_Developer_·_Sep_2026_→_now-1f2937?style=flat-square&labelColor=22d3ee&logoColor=white" alt="Tharwah Group" /></a>
+  <a href="https://kowa.sa/"><img src="https://img.shields.io/badge/Kowa-Full--Stack_Developer_·_Jun_→_Sep_2026-1f2937?style=flat-square&labelColor=8b5cf6" alt="Kowa" /></a>
+</p>
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 ## 🚀 Featured Projects
