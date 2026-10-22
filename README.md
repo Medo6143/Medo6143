@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:22d3ee&height=220&section=header&text=Mohamed%20Wael&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20crafting%20fast%2C%20bilingual%20web%20%26%20mobile%20apps&descSize=18&descAlignY=60" width="100%" alt="Mohamed Wael — Full-Stack Developer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:22d3ee&height=220&section=header&text=Mohamed%20Wael&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20crafting%20fast%2C%20bilingual%20web%20and%20mobile%20apps&descSize=18&descAlignY=60" width="100%" alt="Mohamed Wael — Full-Stack Developer banner" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
   <a href="https://mohamed-wael-m.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/mohamed-wael-469744273/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mohamedwaeltorad@gmail.com"><img src="https://img.shields.io/badge/Email-22d3ee?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Medo6143&style=for-the-badge&color=6366f1&label=Profile+Views" alt="Profile views counter" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Medo6143.Medo6143&left_text=Profile%20Views&right_color=6366f1&left_color=1f2937" alt="Profile views counter" />
 </p>
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
